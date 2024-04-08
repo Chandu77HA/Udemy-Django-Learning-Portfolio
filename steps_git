@@ -1,0 +1,23 @@
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m "First Commit"
+
+git config --global user.name "Your Name"
+
+git config --global user.email "Your Email"
+
+git config user.name
+
+git config user.email
+
+git remote
+
+git remote add origin https://github.com/Chandu77HA/Udemy-Django-Learning-Portfolio.git
+
+git push -u origin master
